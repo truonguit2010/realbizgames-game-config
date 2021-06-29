@@ -1,0 +1,16 @@
+{
+    "name": "RealbizGames.Game.Config.Runtime",
+    "references": [
+        "RealBizGames.Data.Runtime",
+        "RealBizGames.ChainPattern.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
